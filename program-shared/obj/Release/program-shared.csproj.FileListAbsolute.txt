@@ -1,0 +1,6 @@
+C:\Users\todor\Desktop\Origin Folder\program-shared\bin\Release\SharedLibrary.dll
+C:\Users\todor\Desktop\Origin Folder\program-shared\bin\Release\SharedLibrary.pdb
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Release\program-shared.csproj.AssemblyReference.cache
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Release\program-shared.csproj.CoreCompileInputs.cache
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Release\SharedLibrary.dll
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Release\SharedLibrary.pdb

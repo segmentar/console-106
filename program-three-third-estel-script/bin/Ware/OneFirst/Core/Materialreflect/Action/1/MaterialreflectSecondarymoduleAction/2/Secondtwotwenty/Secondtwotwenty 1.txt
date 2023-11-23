@@ -1,0 +1,54 @@
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 11
+	~06 HasSymmetry: False
+}
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 57
+	~06 HasSymmetry: False
+}
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<[>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<]>>
+	~05 Position: 40
+	~06 HasSymmetry: False
+}
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 36
+	~06 HasSymmetry: True
+}
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 83
+	~06 HasSymmetry: True
+}
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<]>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<[>>
+	~05 Position: 53
+	~06 HasSymmetry: True
+}

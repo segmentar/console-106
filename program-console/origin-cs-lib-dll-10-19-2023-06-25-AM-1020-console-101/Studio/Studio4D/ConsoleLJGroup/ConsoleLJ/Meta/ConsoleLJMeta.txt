@@ -1,0 +1,22 @@
+
+	o meta O META
+
+	o type O TYPE
+
+	o link O LINK
+
+sequence ConsoleLJ : no unused namespace(s)
+
+	>Data
+	<<ConsoleljData.cs
+
+	>Prototype
+	<<ConsoleljPrototype.cs
+
+	<Consolelj.cs
+
+	/object\OBJECT/ConsoleljDataObject.cs\
+
+	/object\OBJECT/ConsoleljObject.cs\
+
+end sequence

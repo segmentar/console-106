@@ -1,0 +1,17 @@
+FunctionTwenty :: {
+.function
+	~01 TupleArray: . . . <2>
+}
+
+~10 TupleArray:
+<2>
+Tuple`2
+Item1:
+!
+Item2: . . . <1>:
+system-host-if-log-left
+Tuple`2
+Item1:
+@
+Item2: . . . <1>:
+system-host-if-log-right

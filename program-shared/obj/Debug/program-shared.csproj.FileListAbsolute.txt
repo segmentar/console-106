@@ -1,0 +1,6 @@
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Debug\program-shared.csproj.AssemblyReference.cache
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Debug\program-shared.csproj.CoreCompileInputs.cache
+C:\Users\todor\Desktop\Origin Folder\program-shared\bin\Debug\program-shared-x.dll
+C:\Users\todor\Desktop\Origin Folder\program-shared\bin\Debug\program-shared-x.pdb
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Debug\program-shared-x.dll
+C:\Users\todor\Desktop\Origin Folder\program-shared\obj\Debug\program-shared-x.pdb

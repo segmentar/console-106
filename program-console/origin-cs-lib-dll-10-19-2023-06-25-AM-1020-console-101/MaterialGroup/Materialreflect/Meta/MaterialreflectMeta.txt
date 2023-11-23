@@ -1,0 +1,21 @@
+sequence Materialreflect : no unused namespace(s), meta, type, link
+
+	>Compress
+	<<MaterialreflectCompress.cs
+
+	>CompressRaw
+	<<MaterialreflectCompressRaw.cs
+
+	>InformationRaw
+	<<MaterialreflectInformationRaw.cs
+
+	>Prototype
+	<<MaterialreflectPrototype.cs
+
+	<Materialreflect.cs
+
+	/object\OBJECT/MaterialreflectObject.cs\
+
+	/module\MODULE/MaterialreflectModule.cs\
+
+end sequence

@@ -1,0 +1,21 @@
+FunctionThirty :: {
+.function
+	~01 TupleArray: . . . <2>
+}
+
+~10 TupleArray:
+<2>
+Tuple`3
+Item1:
+!
+Item2: . . . <1>:
+system-host-else-base-left
+Item3: . . . <1>:
+{
+Tuple`3
+Item1:
+@
+Item2: . . . <1>:
+system-host-else-base-right
+Item3: . . . <1>:
+}

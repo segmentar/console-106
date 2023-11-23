@@ -1,0 +1,5 @@
+VirtualFolder :: VirtualFolderSequence {
+.debug
+	~01 fullName: C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\bin\Debug\bootstrap-working-directory-5hbuprx2.pfe
+	~02 debug: True
+}

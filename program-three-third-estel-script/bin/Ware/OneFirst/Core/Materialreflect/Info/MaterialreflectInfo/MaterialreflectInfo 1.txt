@@ -1,0 +1,40 @@
+Materialreflect :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 Material: . . .
+	~03 InputString: <hidden>
+	~04 InputString: <safe><<!{!@}@     (system-host-if-base-left)   [if-code::fci]   (system-host-if-base-right)     !!system-host-if-base-left   @@system-host-if-base-right>>
+	~05 EscapeCharacterArray: <hidden>
+	~06 EscapeCharacterArray: . . .<2>
+.information-raw
+	~07 OutputString:       
+
+	(system-host-if-base-left)
+	[if-code::fci]
+	(system-host-if-base-right)
+
+	  system-host-if-base-left
+	  system-host-if-base-right
+}
+
+~10 Material:
+Material :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 HeaderSubstring: <hidden>
+	~03 HeaderSubstring: <safe><<.system-host-if-base ..!@  >>
+	~04 FooterSubstring: <hidden>
+	~05 FooterSubstring: <safe><<   !{!@}@     (system-host-if-base-left)   [if-code::fci]   (system-host-if-base-right)     !!system-host-if-base-left   @@system-host-if-base-right  >>
+.information-raw
+	~06 EscapeCharacterArray: . . . <2>
+}
+
+~10 EscapeCharacterArray:
+!
+@
+
+~20 <safe><<EscapeCharacterArray>>:
+!
+@

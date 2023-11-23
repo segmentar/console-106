@@ -1,0 +1,7 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Core.ConsoleLJ.Style(GUIStyle styleCode, Object objectItem) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-09-20-2023-03-19-PM-1020-program-console-101\ConsoleLJ\Type\Public\Style.cs:line 42
+   at Core.Program.ConsoleSetupOneFirst() in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\origin-cs-bin-exe-08-23-2023-03-05-AM-1020-program-bootstrap-101\Program\Type\Part\ConsoleSetup\01\ConsoleSetupOneFirst.cs:line 13
+   at Core.ProgramModule.ProgramModuleDefault() in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\origin-cs-bin-exe-08-23-2023-03-05-AM-1020-program-bootstrap-101\Program\Module\Default\ProgramModuleDefault.cs:line 23
+   at Core.ProgramModule.ProgramModuleAction(Boolean interop, Boolean build, Boolean explorer) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\origin-cs-bin-exe-08-23-2023-03-05-AM-1020-program-bootstrap-101\Program\Module\Action\ProgramModuleAction.cs:line 42
+   at Core.Program.Bundle(Boolean debug) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\origin-cs-bin-exe-08-23-2023-03-05-AM-1020-program-bootstrap-101\Program\Static\ProgramStatic.cs:line 104
+   at Core.Program.Main(String[] array_ARGUMENT) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\origin-cs-bin-exe-08-23-2023-03-05-AM-1020-program-bootstrap-101\Program\Static\ProgramStatic.cs:line 27

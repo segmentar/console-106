@@ -1,0 +1,12 @@
+Hostlocalline :: HostlocallineSequence {
+.debug
+	~01 LocalLineInline___VALUE: OPERATION _PRINT_ ...
+
+	~02 LocalLineMultiline___VALUE: . . . <3>
+	~03 answer_DEBUG_is: False
+}
+
+~10 LocalLineMultiline___VALUE:
+_A_ .
+_B_ _G_ .
+_C_ .

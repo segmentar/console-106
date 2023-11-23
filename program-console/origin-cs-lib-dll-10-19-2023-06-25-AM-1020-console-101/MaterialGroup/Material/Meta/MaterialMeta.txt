@@ -1,0 +1,17 @@
+sequence Material : Subject, meta, link, type
+
+	>Compress
+	<<MaterialCompress.cs
+
+	>CompressRaw
+	<<MaterialCompressRaw.cs
+
+	>InformationRaw
+	<<MaterialInformationRaw.cs
+
+	>MaterialObject
+	<<MaterialObject.cs
+
+	<Material.cs
+
+end sequence

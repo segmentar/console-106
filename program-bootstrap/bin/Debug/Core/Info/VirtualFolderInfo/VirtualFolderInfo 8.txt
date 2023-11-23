@@ -1,0 +1,9 @@
+VirtualFolder :: {
+.compress
+	~01 IsDebug::True
+.compress-raw
+	~02 FullName: C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\bin\Debug\bootstrap-working-directory-5hbuprx2.pfe\origin-cs--09-26-2023-12-03-AM-1020-Sample-101\Test\Module
+	~03 FilesystemEntryArrayList: . . . <0>
+}
+
+~10 FilesystemEntryArrayList:

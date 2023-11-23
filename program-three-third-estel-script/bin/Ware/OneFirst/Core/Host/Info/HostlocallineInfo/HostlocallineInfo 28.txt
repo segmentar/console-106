@@ -1,0 +1,25 @@
+Hostlocalline :: {
+.compress
+	~01 IsDebug: False
+.compress-raw
+	~02 StringValue: <hidden>
+	~03 StringValue: <safe><<VSOPERATION _SYSTEM_HOST_OPEN_WRITE_ .  >>
+	~04 StringInstruction: <hidden>
+	~05 StringInstruction: <safe><<VSOPERATION>>
+	~06 StringCall: <hidden>
+	~07 StringCall: <safe><<_SYSTEM_HOST_OPEN_WRITE_>>
+	~08 InlineArray: <hidden>
+	~09 InlineArray: . . . <1>
+	~10 MultilineArray: <hidden>
+	~11 MultilineArray: . . . <0>
+	~12 ParameterArray: <hidden>
+	~13 ParameterArray: . . . <0>
+}
+
+~10 <safe> InlineArray:
+.  
+
+~20 <safe> MultilineArray:
+
+
+~30 <safe> ParameterArray:

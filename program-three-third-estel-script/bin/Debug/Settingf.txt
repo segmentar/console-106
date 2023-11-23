@@ -1,0 +1,25 @@
+**
+
+PathProgramOneFirst**...\..\Ware\OneFirst\program-one-first-estel-script.exe
+
+PathProgramTwoSecond**...\..\Ware\TwoSecond\program-two-second-estel-script.exe
+
+
+PathBootstrapOneFirst**...\..\Boot\OneFirst\Bootstrap.exe
+
+
+InputPathProgramOneFirst**...\In\00
+
+InputPathProgramTwoSecond**...\In\01
+
+
+
+OutputPathProgramOneFirst**...\Out\01
+
+OutputPathProgramTwoSecond**...\Out\02
+
+
+
+add-auto-command**call # ; @ :: # #PathProgramOneFirst @ # InputDirectory::#InputPathProgramOneFirst # OutputDirectory::#OutputPathProgramOneFirst display-argument linger
+
+add-auto-command**call

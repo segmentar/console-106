@@ -1,0 +1,7 @@
+ModuleTen :: {
+.function
+	~01 TupleArray: . . . <0>
+}
+
+~10 TupleArray:
+<0>

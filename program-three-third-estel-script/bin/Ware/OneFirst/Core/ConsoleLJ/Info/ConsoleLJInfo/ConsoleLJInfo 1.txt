@@ -1,0 +1,6 @@
+ConsoleLJ :: ConsoleLJData {
+.data
+	~01 IsRunning: True
+	~02 IsWaiting: False
+	~03 IsDebug: True
+}

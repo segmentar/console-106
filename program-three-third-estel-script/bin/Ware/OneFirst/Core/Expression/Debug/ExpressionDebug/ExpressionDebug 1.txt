@@ -1,0 +1,9 @@
+Expression :: ExpressionSequence {
+.debug
+	~01 IdentityStringSafe___VALUE: <hidden>
+	~02 IdentityStringSafe___VALUE: <safe><<root>>
+	~03 ObjectIdentity__VALUE: . . .
+	~04 answer_DEBUG_is: True
+}
+
+~10 ObjectIdentity__VALUE:

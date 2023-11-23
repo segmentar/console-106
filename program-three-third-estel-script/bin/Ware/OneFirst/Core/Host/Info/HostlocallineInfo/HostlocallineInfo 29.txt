@@ -1,0 +1,25 @@
+Hostlocalline :: {
+.compress
+	~01 IsDebug: False
+.compress-raw
+	~02 StringValue: <hidden>
+	~03 StringValue: <safe><<_A_ _FS_ .  >>
+	~04 StringInstruction: <hidden>
+	~05 StringInstruction: <safe><<_A_>>
+	~06 StringCall: <hidden>
+	~07 StringCall: <safe><<_FS_>>
+	~08 InlineArray: <hidden>
+	~09 InlineArray: . . . <1>
+	~10 MultilineArray: <hidden>
+	~11 MultilineArray: . . . <0>
+	~12 ParameterArray: <hidden>
+	~13 ParameterArray: . . . <0>
+}
+
+~10 <safe> InlineArray:
+.  
+
+~20 <safe> MultilineArray:
+
+
+~30 <safe> ParameterArray:

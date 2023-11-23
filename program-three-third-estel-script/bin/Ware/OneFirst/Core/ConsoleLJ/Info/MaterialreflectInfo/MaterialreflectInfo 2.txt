@@ -1,0 +1,42 @@
+Materialreflect :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 Material: . . .
+	~03 InputString: <hidden>
+	~04 InputString: <safe><<!{!@}@      (else)     (system-host-else-base-left)   [else-code::fce]   (system-host-else-base-right)     !!system-host-else-base-left   @@system-host-else-base-right>>
+	~05 EscapeCharacterArray: <hidden>
+	~06 EscapeCharacterArray: . . .<2>
+.information-raw
+	~07 OutputString:       
+	
+	(else)
+
+	(system-host-else-base-left)
+	[else-code::fce]
+	(system-host-else-base-right)
+
+	  system-host-else-base-left
+	  system-host-else-base-right
+}
+
+~10 Material:
+Material :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 HeaderSubstring: <hidden>
+	~03 HeaderSubstring: <safe><<.system-host-else-base ..!@  >>
+	~04 FooterSubstring: <hidden>
+	~05 FooterSubstring: <safe><<   !{!@}@      (else)     (system-host-else-base-left)   [else-code::fce]   (system-host-else-base-right)     !!system-host-else-base-left   @@system-host-else-base-right  >>
+.information-raw
+	~06 EscapeCharacterArray: . . . <2>
+}
+
+~10 EscapeCharacterArray:
+!
+@
+
+~20 <safe><<EscapeCharacterArray>>:
+!
+@

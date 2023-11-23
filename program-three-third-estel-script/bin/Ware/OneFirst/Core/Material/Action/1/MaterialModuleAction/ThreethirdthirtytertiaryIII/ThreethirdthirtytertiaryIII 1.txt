@@ -1,0 +1,8 @@
+FunctionThirty :: {
+.function
+	~01 CharacterArray: . . . <2>
+}
+
+~10 CharacterArray:
+!
+@

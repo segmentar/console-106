@@ -1,0 +1,35 @@
+FormBase :: FormBaseSequence {
+.debug
+	~01 item__BASE_CFS: . . .
+	~02 array_POSITION: <2>
+	~03 debug: True
+}
+
+~10 item__BASE_CFS:
+BaseCFS :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 Measure: . . .
+	~03 File:  C:\Users\todor\OneDrive\Desktop\Origin Folder\program-three-third-estel-script\bin\Ware\OneFirst\In\system-host-if.txt
+	~04 Content: <hidden>
+	~05 ContentSafe: <safe><<.system-host-if-base ..!@ ,     !{!@}@     (system-host-if-base-left)   [if-code::fci]   (system-host-if-base-right)     !!system-host-if-base-left   @@system-host-if-base-right  .....    .system-host-else-base ..!@ ,     !{!@}@      (else)     (system-host-else-base-left)   [else-code::fce]   (system-host-else-base-right)     !!system-host-else-base-left   @@system-host-else-base-right  .....    .system-host-if-log ..!@ ,     !(!@)@     (ã „ã µ)     (system-host-if-log-left)   .([evaluation::fe]).   (system-host-if-log-right)     <fe::=::false>     {system-host-if-base}   {{system-host-else-base}}     !!system-host-if-log-left   @@system-host-if-log-right    .....    OPERATION _PRINT_ .  _ABOUT_TO_GET_WILD_ .    ã „ã µ (false)  {   OPERATION _PRINT_ .   _THIS_WILL_NOT_PRINT_ .  }  else  {  }>>
+	~06 Encoding: . . .
+}
+
+~10 Measure:
+BaseCFS ::BaseCFSMeasure {
+.measure
+	~01 Position: 0
+	~02 FormArrayList: . . . <0>
+}
+
+~10 FormArrayList:
+
+
+~20 Encoding:
+System.Text.SBCSCodePageEncoding
+
+~20 array_POSITION:
+26
+179

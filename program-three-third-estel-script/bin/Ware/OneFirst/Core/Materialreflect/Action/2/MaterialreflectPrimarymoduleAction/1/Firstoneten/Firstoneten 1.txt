@@ -1,0 +1,19 @@
+FunctionTen :: {
+.function
+	~01 StringResult: <hidden>
+	~02 StringResult: <safe><<            (else)     (system-host-else-base-left)   [else-code::fce]   (system-host-else-base-right)       system-host-else-base-left     system-host-else-base-right>>
+	~03 TupleArray: . . . <2>
+}
+
+~10 TupleArray:
+<2>
+Tuple`2
+Item1:
+!
+Item2: . . . <1>:
+{
+Tuple`2
+Item1:
+@
+Item2: . . . <1>:
+}

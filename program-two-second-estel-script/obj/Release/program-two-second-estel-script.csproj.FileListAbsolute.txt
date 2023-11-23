@@ -1,0 +1,11 @@
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\bin\Release\program-two-second-estel-script.exe.config
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\bin\Release\program-two-second-estel-script.exe
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\bin\Release\program-two-second-estel-script.pdb
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-three-third-estel-script\bin\Ware\TwoSecond\program-two-second-estel-script.exe.config
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-three-third-estel-script\bin\Ware\TwoSecond\program-two-second-estel-script.exe
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-three-third-estel-script\bin\Ware\TwoSecond\program-two-second-estel-script.pdb
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\obj\Release\program-two-second-estel-script.csproj.AssemblyReference.cache
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\obj\Release\program-two-second-estel-script.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\obj\Release\program-two-second-estel-script.csproj.CoreCompileInputs.cache
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\obj\Release\program-two-second-estel-script.exe
+C:\Users\todor\OneDrive\Desktop\Origin Folder\program-two-second-estel-script\obj\Release\program-two-second-estel-script.pdb

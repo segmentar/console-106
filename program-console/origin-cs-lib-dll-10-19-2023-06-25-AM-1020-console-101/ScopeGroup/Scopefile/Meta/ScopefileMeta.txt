@@ -1,0 +1,15 @@
+sequence Scopefile : no unused namespace(s)
+
+	>Compress
+	<<ScopefileCompress.cs
+
+	>CompressRaw
+	<<ScopefileCompressRaw.cs
+
+	>Object
+	>>ScopefileObject
+	<<<ScopefileObject.cs
+
+	<Scopefile.cs
+
+end sequence

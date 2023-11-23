@@ -1,0 +1,3 @@
+SystemHostCreateFile :: {
+	~01 [DIRECTORY_FULL_NAME] [FILE_NAME] [FILE_EXTENSION]
+}

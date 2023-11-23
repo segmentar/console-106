@@ -1,0 +1,22 @@
+ContributeModuleWriteInline :: ContributeModuleThirty {
+.function
+	TupleArrayA: . . . <0>
+	TupleArrayB: . . . <0>
+	TupleArrayC: . . . <0>
+	TupleArrayD: . . . <0>
+}
+
+~10 TupleArrayA:
+<0>
+
+
+~20 TupleArrayB:
+<0>
+
+
+~30 TupleArrayC:
+<0>
+
+
+~40 TupleArrayD:
+<0>

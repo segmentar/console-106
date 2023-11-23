@@ -1,0 +1,6 @@
+ExpressionModuleFunctionTen :: {
+	~01 Tuple: . . .
+}
+
+~10 Tuple:
+(1, 3000, 3300)

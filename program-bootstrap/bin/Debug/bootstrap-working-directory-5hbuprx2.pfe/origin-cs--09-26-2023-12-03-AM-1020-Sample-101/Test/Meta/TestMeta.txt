@@ -1,0 +1,26 @@
+
+	o meta O META
+
+	o type O TYPE
+
+	o link O LINK
+
+	o static O STATIC
+
+sequence Test : no unused namespace(s)
+
+	>Data
+	<<TestData.cs
+
+	>Prototype
+	<<TestPrototype.cs
+
+	<Test.cs
+
+	o /object\OBJECT/TestObject.cs\
+
+	o /object\OBJECT/TestDataObject.cs\
+
+	o /sequence\SEQUENCE/TestSeqeunce.cs\
+
+end sequence

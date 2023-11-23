@@ -1,0 +1,20 @@
+VirtualFileSimple :: VirtualFilesystemSequence {
+.debug
+	~01 encoding: . . .
+	~02 virtualFolder: . . .
+	~03 debug: True
+}
+
+~10 encoding:
+System.Text.SBCSCodePageEncoding
+
+~20 virtualFolder:
+VirtualFolder :: {
+.compress
+	~01 IsDebug::True
+.compress-raw
+	~02 FullName: C:\Users\todor\OneDrive\Desktop\Origin Folder\program-bootstrap\bin\Debug\bootstrap-working-directory-5hbuprx2.pfe
+	~03 FilesystemEntryArrayList: . . . <0>
+}
+
+~10 FilesystemEntryArrayList:

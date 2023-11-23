@@ -1,0 +1,19 @@
+ExpressionModuleFunctionThirty :: {
+~01 TupleArray: . . . <1>
+}
+
+~10 TupleArray:
+<1>
+Tuple`6
+Item1:
+1
+Item2:
+-1
+Item3:
+3300
+Item4:
+3300
+Item5:
+root
+Item6: . . . <0>:
+

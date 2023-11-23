@@ -1,0 +1,30 @@
+sequence Materialquery, meta, link, type
+
+	>Data
+	<<MaterialqueryData.cs
+
+	>Postprocess
+	<<MaterialqueryPostprocess.cs
+
+	>Prototype
+	<<MaterialqueryPrototype
+
+	<Materialquery
+
+end seqeunce
+
+sequence Materialquery : Object, Runtime, Measure 
+
+	/object\OBJECT/MaterialqueryObject.cs\
+
+	/object\OBJECT/MaterialqueryDataObject.cs\
+
+	/object\OBJECT/MaterialqueryRuntimeObject.cs\
+
+	/object\OBJECT/MaterialqueryMeasureObject.cs\
+
+	/runtime\RUNTIME/MaterialqueryRuntime.cs\
+
+	/measure\MEASURE/MaterialqueryMeasure.cs\
+
+end sequence 

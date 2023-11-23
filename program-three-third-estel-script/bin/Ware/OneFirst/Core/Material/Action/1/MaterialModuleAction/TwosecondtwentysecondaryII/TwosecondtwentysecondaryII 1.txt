@@ -1,0 +1,12 @@
+FunctionTwenty :: {
+.function
+	~01 TupleArray: . . . <1>
+}
+
+~10 TupleArray:
+<1>
+Tuple`2
+Item1:
+2
+Item2:
+!@

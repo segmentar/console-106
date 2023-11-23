@@ -1,0 +1,19 @@
+FunctionTen :: {
+.function
+	~01 StringResult: <hidden>
+	~02 StringResult: <safe><<           (いふ)     (system-host-if-log-left)   .([evaluation::fe]).   (system-host-if-log-right)     <fe::=::false>     {system-host-if-base}   {{system-host-else-base}}       system-host-if-log-left     system-host-if-log-right>>
+	~03 TupleArray: . . . <2>
+}
+
+~10 TupleArray:
+<2>
+Tuple`2
+Item1:
+!
+Item2: . . . <1>:
+(
+Tuple`2
+Item1:
+@
+Item2: . . . <1>:
+)

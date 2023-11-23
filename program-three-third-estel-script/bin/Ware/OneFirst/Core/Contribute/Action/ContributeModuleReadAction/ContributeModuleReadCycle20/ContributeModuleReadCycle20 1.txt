@@ -1,0 +1,14 @@
+ContributeModuleReadCycle :: FunctionHeader {
+.function
+	~01 HeaderSize: 32
+	~02 ObjectIdentityTableLength: 0
+	~03 ObjectIdentityTableAddress: 3000
+	~04 TabulationTableLengthA: 0
+	~05 TabulationTableLengthB: 0
+	~06 TabulationTableLengthC: 0
+	~07 TabulationTableLengthD: 0
+	~08 TabulationTableAddressA: 3000
+	~09 TabulationTableAddressB: 3000
+	~10 TabulationTableAddressC: 3000
+	~11 TabulationTableAddressD: 3000
+}

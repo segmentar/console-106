@@ -1,0 +1,24 @@
+sequence Expression : no unused namespace(s), meta, type, link
+
+	>Compress
+	<<ExpressionCompress.cs
+
+	>CompressRaw
+	<<ExpressionCompressRaw.cs
+
+	>InformationRaw
+	<<ExpressionInformationRaw.cs
+
+	>Object
+	>>ExpressionObject
+	<<<ExpressionObject.cs
+
+	<Expression.cs
+
+	/simple\SIMPLE/ExpressionSimple.cs\
+
+	/module\MODULE/ExpressionModuleRead.cs\
+
+	/module\MODULE/ExpressionModuleWrite.cs\
+
+end sequence

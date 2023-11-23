@@ -1,0 +1,110 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{E1359844-BF7D-4292-A8EF-6835924ED440}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Core.Shared</RootNamespace>
+    <AssemblyName>SharedLibrary</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\CompressRaw\VirtualFilesystemCompressRaw.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Compress\VirtualFilesystemCompress.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Link\Policy\VirtualFilesystemLinkPolicy.cs" />
+    <Content Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Meta\VirtualFilesystemMeta.txt" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Object\VirtualFilesystemObject\VirtualFilesystemObject.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Prototype\VirtualFilesystemPrototype.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Simple\VirtualFilesystemSimple.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Forge\ForgeOriginName.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Internal\OpenExplorer.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Internal\Render.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Make\Default\Surface\VirtualFilesystemMakeDefaultSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Make\Default\VirtualFilesystemMakeDefault.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Sequence\Debug\VirtualFilesystemSequenceDebug.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\Type\Sequence\VirtualFilesystemSequence.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFilesystem\VirtualFilesystem.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\CompressRaw\VirtualFileCompressRaw.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Compress\VirtualFileCompress.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Link\Policy\VirtualFileLinkPolicy.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Object\VirtualFileObject\VirtualFileObject.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Prototype\VirtualFilePrototype.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Simple\VirtualFileSImple.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Type\Make\Default\Surface\VirtualFileMakeDefaultSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Type\Make\Default\VirtualFileMakeDefault.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Type\Sequence\Debug\VirtualFileSequenceDebug.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Type\Sequence\VirtualFileSequence.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\VirtualFile.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\CompressRaw\VirtualFolderCompressRaw.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Compress\VirtualFolderCompresss.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Link\Policy\VirtualFolderLinkPolicy.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Object\VirtualFolderObject\VirtualFolderObject.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Prototype\VirtualFolderPrototype.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Simple\ThreeThird\VirtualFolderSimple.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\AddClass.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\AddFile.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\AddFolder.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\AddModule.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationDataDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationDataObjectDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationEntryDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationLinkPolicyDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationMetaDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationObjectDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ClassificationDescriptor\ClassificationPrototypeDescriptor.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Make\Default\Surface\VirtualFolderMakeDefaultSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Make\Default\VirtualFolderMakeDefault.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Sequence\Debug\VirtualFolderSequenceDebug.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Sequence\VirtualFolderSequence.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\File\Surface\VirtualFolderSetFileSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\File\VirtualFolderSetFile.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\Folder\Surface\VirtualFolderSetFolderSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\Folder\VirtualFolderSetFolder.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\Recurse\Surface\VirtualFolderSetRecurseSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\Recurse\VirtualFolderSetRecurse.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\Traverse\Surface\VirtualFolderSetTraverseSurface.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Set\Traverse\VirtualFolderSetTraverse.cs" />
+    <Compile Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\VirtualFolder.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFile\Meta\VirtualFileMeta.txt" />
+    <Content Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Meta\VirtualFolderMeta.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="origin-cs-lib-dll-08-23-2023-02-29-AM-1020-shared-101\VirtualFolder\Type\Internal\ModulationDescriptor\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

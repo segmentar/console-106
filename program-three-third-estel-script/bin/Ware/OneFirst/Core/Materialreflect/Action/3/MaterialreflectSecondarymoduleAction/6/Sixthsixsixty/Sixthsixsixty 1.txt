@@ -1,0 +1,751 @@
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <1>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<system-host-else-base>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <1>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 1
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<{system-host-else-base}>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<{>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<}>>
+	~05 Position: 145
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<}>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<{>>
+	~05 Position: 169
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 2
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 0
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<system-host-else-base>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<{>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<}>>
+	~05 Position: 146
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<}>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<{>>
+	~05 Position: 168
+	~06 HasSymmetry: True
+}
+
+~20 SegmentArray:
+system-host-else-base
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <1>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<system-host-if-base>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 2
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<system-host-if-base>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<{>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<}>>
+	~05 Position: 121
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<}>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<{>>
+	~05 Position: 141
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+system-host-if-base
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <3>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<fe>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<=>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 3
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<fe::=::false>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<<>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<>>>
+	~05 Position: 102
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<>>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<<>>
+	~05 Position: 115
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+fe
+=
+false
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <1>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<system-host-if-log-right>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 4
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<system-host-if-log-right>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 71
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 96
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+system-host-if-log-right
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <2>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<evaluation>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<fe>>
+	~07 StickyLeft: True
+	~08 StickyRight: True
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <1>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 6
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<[evaluation::fe]>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 49
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 66
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 2
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 5
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<evaluation::fe>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<[>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<]>>
+	~05 Position: 50
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<]>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<[>>
+	~05 Position: 65
+	~06 HasSymmetry: True
+}
+
+~20 SegmentArray:
+evaluation
+fe
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <1>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<system-host-if-log-left>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 7
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<system-host-if-log-left>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 20
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 44
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+system-host-if-log-left
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <1>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<いふ>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <True>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 8
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<いふ>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 11
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 14
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+いふ
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <1>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<system-host-else-base>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <False>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 2
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 0
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<system-host-else-base>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<{>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<}>>
+	~05 Position: 146
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<}>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<{>>
+	~05 Position: 168
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 1
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<{system-host-else-base}>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<{>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<}>>
+	~05 Position: 145
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<}>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<{>>
+	~05 Position: 169
+	~06 HasSymmetry: True
+}
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+system-host-else-base
+FunctionSixty :: {
+.function
+	~01 Function: . . .
+	~02 SegmentArray: . . . <2>
+	~03 IdentityName: <hidden>
+	~04 IdentityName: <safe><<evaluation>>
+	~05 VirtualName: <hidden>
+	~06 VirtualName: <safe><<fe>>
+	~07 StickyLeft: False
+	~08 StickyRight: False
+}
+
+~10 Function:
+FunctionFifty :: {
+.function
+	~01 Function: . . .
+	~02 FunctionParent: . . . <False>
+	~03 FunctionArray: . . . <0>
+}
+
+~10 Function:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 2
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 5
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<evaluation::fe>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<[>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<]>>
+	~05 Position: 50
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<]>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<[>>
+	~05 Position: 65
+	~06 HasSymmetry: True
+}
+
+~20 FunctionParent:
+FunctionFourty :: {
+.function
+	~01 Function: . . .
+	~02 Layer: 1
+}
+
+~01 Function:
+FunctionThirty :: {
+.function
+	~01 Left: . . . <False>
+	~02 Right: . . . <False>
+	~03 Rank: 6
+	~04 ValueString: <hidden>
+	~05 ValueString: <safe><<[evaluation::fe]>>
+}
+
+~10 Left:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<(>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<)>>
+	~05 Position: 49
+	~06 HasSymmetry: False
+}
+
+~20 Right:
+FunctionTwenty :: {
+.function
+	~01 Character: <hidden>
+	~02 Character: <safe><<)>>
+	~03 SymmetryCharacter: <hidden>
+	~04 SymmetryCharacter: <safe><<(>>
+	~05 Position: 66
+	~06 HasSymmetry: True
+}
+
+~30 FunctionArray:
+
+
+~20 SegmentArray:
+evaluation
+fe

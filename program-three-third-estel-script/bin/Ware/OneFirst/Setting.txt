@@ -1,0 +1,8 @@
+secret
+#
+;
+::
+:;
+InputDirectory::# ;...\In
+OutputDirectory::# ;...\Out
+ReservedFlag::3

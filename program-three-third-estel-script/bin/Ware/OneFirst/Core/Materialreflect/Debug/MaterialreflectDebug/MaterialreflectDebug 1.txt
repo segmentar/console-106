@@ -1,0 +1,13 @@
+Materialreflect :: MaterialreflectSequence {
+.debug
+	~01 StringFormat__VALUE: . . .
+	~02 EscapeCharacter__ARRAY: . . .<2>
+	~03 answer_DEBUG_is: True
+}
+
+~10 StringFormat__VALUE:
+Core.MaterialStringFormat
+
+~20 <safe><<EscapeCharacter__ARRAY>>:
+!
+@

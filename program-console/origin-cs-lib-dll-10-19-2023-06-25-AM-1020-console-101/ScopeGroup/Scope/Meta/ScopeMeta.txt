@@ -1,0 +1,12 @@
+sequence Scope : Subject, meta, link, type, measure, runtime
+
+	>InformationRaw
+	<<ScopeInformationRaw.cs
+
+	>Object
+	>>ScopeObject
+	<<<ScopeObject.cs
+
+	<Scope.cs
+
+end sequence

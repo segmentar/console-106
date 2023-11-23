@@ -1,0 +1,17 @@
+FunctionTen :: {
+.function
+	~01 TupleArray: . . . <2>
+}
+
+~10 TupleArray:
+<2>
+Tuple`2
+Item1:
+1
+Item2:
+system-host-else-base
+Tuple`2
+Item1:
+2
+Item2:
+!@

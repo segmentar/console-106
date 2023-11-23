@@ -1,0 +1,57 @@
+.system-host-if-base ..!@ ,
+
+	!{!@}@
+
+	(system-host-if-base-left)
+	[if-code::fci]
+	(system-host-if-base-right)
+
+	!!system-host-if-base-left
+	@@system-host-if-base-right
+.....
+
+.system-host-else-base ..!@ ,
+
+	!{!@}@
+	
+	(else)
+
+	(system-host-else-base-left)
+	[else-code::fce]
+	(system-host-else-base-right)
+
+	!!system-host-else-base-left
+	@@system-host-else-base-right
+.....
+
+.system-host-if-log ..!@ ,
+
+	!(!@)@
+
+	(いふ)
+
+	(system-host-if-log-left)
+	.([evaluation::fe]).
+	(system-host-if-log-right)
+
+	<fe::=::false>
+
+	{system-host-if-base}
+	{{system-host-else-base}}
+
+	!!system-host-if-log-left
+	@@system-host-if-log-right
+
+.....
+
+OPERATION _PRINT_ .
+_ABOUT_TO_GET_WILD_ .
+
+いふ (false)
+{
+	OPERATION _PRINT_ .
+	_THIS_WILL_NOT_PRINT_ .
+}
+else
+{
+}

@@ -1,0 +1,16 @@
+﻿
+	Hoc est documentum . Hoc est documentum binarium .
+
+	Това е документ . Това е бинарен документ .
+
+	This is document . This is binary document .
+
+	مستند هذا . ثنائي مستند هذا .	 
+
+	これ　は　バイナリ　ドキュメント　。
+
+	ეს არის დოკუმენტი . ეს არის ბინარული დოკუმენტი .
+
+	,,,,,
+
+	Free() deleteds / removes the Core folder located in the current directory

@@ -1,0 +1,13 @@
+LJ
+
+ApplicationNameLJMyProgram
+
+ApplicationVersionLJ102
+
+ApplicationTypeLJBinaryPortableExecutable
+
+StudioTypeLJIncludeStudioDirectory
+
+EscapeCharacterLJ
+
+argLJ2

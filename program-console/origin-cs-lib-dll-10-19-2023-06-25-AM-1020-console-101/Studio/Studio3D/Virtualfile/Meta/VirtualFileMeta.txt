@@ -1,0 +1,19 @@
+sequence Virtualfile : no unused namespace(s), meta, link, type
+
+	>Compress
+	<<VirtualfileCompress.cs
+
+	>CompressRaw
+	<<VirtualfileCompressRaw.cs
+
+	>Object
+	>>VirtualfileObject
+	<<<VirtualfileObject.cs
+
+
+	>Prototype
+	<<VirtualfilePrototype.cs
+
+	<Virtualfile.cs
+
+end sequence

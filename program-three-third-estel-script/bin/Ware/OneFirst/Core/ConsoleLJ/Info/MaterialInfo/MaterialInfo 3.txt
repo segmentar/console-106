@@ -1,0 +1,15 @@
+Material :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 HeaderSubstring: <hidden>
+	~03 HeaderSubstring: <safe><<.system-host-if-log ..!@  >>
+	~04 FooterSubstring: <hidden>
+	~05 FooterSubstring: <safe><<   !(!@)@     (if)     (system-host-if-log-left)   .([evaluation::fe]).   (system-host-if-log-right)     <fe::=::false>     {system-host-if-base}   {{system-host-else-base}}     !!system-host-if-log-left   @@system-host-if-log-right    >>
+.information-raw
+	~06 EscapeCharacterArray: . . . <2>
+}
+
+~10 EscapeCharacterArray:
+!
+@

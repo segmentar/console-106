@@ -1,0 +1,48 @@
+Form :: Proof {
+
+	~01 item__FORM_HEADER: . . .
+	~02 item__FORM_ADDRESS: . . .
+	~03 item__FORM_BODY: . . .
+}
+
+~10 item__FORM_HEADER:
+FormHeader :: {
+.flat
+	~01 EndianFormat: True
+	~02 ReservedFlag: 3
+	~03 StringCodec: 1252
+	~04 ChunkSize: 512
+	~05 StartBoundary: 128
+}
+
+~20 item__FORM_ADDRESS:
+FormAddresss :: {
+.flat
+	~01 HeaderAddress: 128
+	~02 ContentAddress: 2212
+	~03 LocalLineAddress: 2900
+	~04 GlobalLineAddress: 3416
+}
+
+~30 item__FORM_BODY:
+FormBody :: {
+.flat
+	~01 HeaderLength: 3
+	~02 HeaderArray: . . . <3>
+	~03 Content:      !{!@}@      (else)     (system-host-else-base-left)   [else-code::fce]   (system-host-else-base-right)     !!system-host-else-base-left   @@system-host-else-base-right  
+	~04 LocalLineLength: 0
+	~05 LocalLineArray: . . .<0>
+	~06 GlobalLineLength: 0
+	~07 GlobalLineArray: . . .<0>
+}
+
+~10 HeaderArray:
+    
+system-host-else-base 
+!@ 
+
+~20 LocalLineArray:
+
+
+~30 GlobalLineArray:
+

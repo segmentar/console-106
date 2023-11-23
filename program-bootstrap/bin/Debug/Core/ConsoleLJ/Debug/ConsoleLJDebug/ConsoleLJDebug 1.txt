@@ -1,0 +1,4 @@
+ConsoleLJ :: ConsoleLJSequence {
+.debug
+	~01 debug: True
+}

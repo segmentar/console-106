@@ -1,0 +1,17 @@
+ScopeFatal :: ScopeFatalLoopFileHandle {
+	~01 InformationArray: . . . <0>
+	~02 Exception: . . .
+}
+
+~10 InformationArray:
+
+
+~20 Exception:
+System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at Core.HostlocallineSequence..ctor(String LocalLineInline___VALUE, String[] LocalLineMultiline___ARRAY, Boolean answer_DEBUG_is) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\HostGroup\Hostlocalline\Type\Sequence\HostlocallineSequence.cs:line 25
+   at Core.Hostlocalline.MakeHostlocallineDefault(String LocalLineInline___VALUE, String[] LocalLineMultiline___VALUE, Boolean answer_DEBUG_is) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\HostGroup\Hostlocalline\Type\Make\Default\HostlocallineMakeDefault.cs:line 13
+   at Core.Hostlocalline.MakeHostlocallineDefaultSurface(String LocalLineInline___VALUE, String[] LocalLineMultiline___VALUE) in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\HostGroup\Hostlocalline\Type\Make\Default\Surface\HostlocallineMakeDefaultSurface.cs:line 13
+   at Core.Scope.LocalLineApply() in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\ScopeGroup\Scope\Type\Group\Apply\LocalLineApply.cs:line 93
+   at Core.Scope.FileSecondaryIteration() in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\ScopeGroup\Scope\Type\Group\Iteration\File\FileSecondaryIteration.cs:line 11
+   at Core.Scope.IterationafterFileCategory() in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\ScopeGroup\Scope\Type\Category\Iterationafter\IterationafterFileCategory.cs:line 38
+   at Core.Scope.FileHandle() in C:\Users\todor\OneDrive\Desktop\Origin Folder\program-console\origin-cs-lib-dll-10-19-2023-06-25-AM-1020-console-101\ScopeGroup\Scope\Type\Group\Handle\FileHandle.cs:line 21

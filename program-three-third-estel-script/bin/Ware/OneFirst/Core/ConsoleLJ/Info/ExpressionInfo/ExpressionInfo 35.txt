@@ -1,0 +1,39 @@
+Expression :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 StringIdentity: <hidden>
+	~03 StringIdentity: <safe><<fe>>
+	~04 ObjectIdentity: . . .
+.information-raw
+	~05 ExpressionArrayList: . . . <1>
+}
+
+~10 ObjectIdentity:
+
+
+~20 ExpressionArrayList:
+Expression :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 StringIdentity: <hidden>
+	~03 StringIdentity: <safe><<false>>
+	~04 ObjectIdentity: . . .
+.information-raw
+	~05 ExpressionArrayList: . . . <0>
+}
+
+~10 ObjectIdentity:
+
+
+~20 ExpressionArrayList:
+
+
+~30 . . . . .:
+>false
+
+
+~30 . . . . .:
+>fe
+>>false

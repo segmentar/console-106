@@ -1,0 +1,4 @@
+Scopefile :: {
+.debug
+	~01 answer_DEBUG_is: True
+}

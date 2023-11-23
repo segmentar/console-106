@@ -1,0 +1,16 @@
+Scopefile :: {
+.compress
+	~01 IsDebug: True
+.compress-raw
+	~02 Filename: <hidden>
+	~03 Filename: <safe><< C:\Users\todor\OneDrive\Desktop\Origin Folder\program-three-third-estel-script\bin\Ware\OneFirst\In\error.txt>>
+	~04 LocalLineArray: <hidden>
+	~05 LocalLineArray: . . . <0>
+	~06 GlobalLineArray: <hidden>
+	~07 GlobalLineArray: . . . <0>
+}
+
+~10 <safe> LocalLineArray:
+
+
+~20 <safe> GlobalLineArray:

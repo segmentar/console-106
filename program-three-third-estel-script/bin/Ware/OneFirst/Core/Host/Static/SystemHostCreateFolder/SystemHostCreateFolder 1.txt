@@ -1,0 +1,3 @@
+SystemHostCreateFolder :: {
+	~01 [NAME]
+}

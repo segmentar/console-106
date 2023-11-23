@@ -1,0 +1,8 @@
+C:\Users\todor\source\repos\program-yooyaasashiii\bin\Debug\program-yooyaasashiii.exe.config
+C:\Users\todor\source\repos\program-yooyaasashiii\bin\Debug\program-yooyaasashiii.exe
+C:\Users\todor\source\repos\program-yooyaasashiii\bin\Debug\program-yooyaasashiii.pdb
+C:\Users\todor\source\repos\program-yooyaasashiii\obj\Debug\program-yooyaasashiii.csproj.AssemblyReference.cache
+C:\Users\todor\source\repos\program-yooyaasashiii\obj\Debug\program-yooyaasashiii.csproj.SuggestedBindingRedirects.cache
+C:\Users\todor\source\repos\program-yooyaasashiii\obj\Debug\program-yooyaasashiii.csproj.CoreCompileInputs.cache
+C:\Users\todor\source\repos\program-yooyaasashiii\obj\Debug\program-yooyaasashiii.exe
+C:\Users\todor\source\repos\program-yooyaasashiii\obj\Debug\program-yooyaasashiii.pdb
